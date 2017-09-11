@@ -2,3 +2,4 @@
 *.csv
 *.py
 .idea/*
+/.idea/workspace.xml
